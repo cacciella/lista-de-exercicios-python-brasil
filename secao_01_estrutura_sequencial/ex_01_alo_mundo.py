@@ -9,7 +9,8 @@ Escreva um programa que mostre a mensagem "Olá Mundo"
 
 """
 
-
-def ola_mundo():
+def hello_world():
     """Escreva aqui em baixo a sua solução"""
-
+    
+print("Hello World")
+Hello World
