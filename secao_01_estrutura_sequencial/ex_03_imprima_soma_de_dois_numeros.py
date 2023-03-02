@@ -17,7 +17,6 @@ numero_2 = int(input('Digite o segundo numero: '))
 soma = numero_1 + numero_2
 print(f'A soma dos numeros é {soma}')
 
-
 """
 Digite o primeiro numero: 42
 Digite o segundo numero: 43
