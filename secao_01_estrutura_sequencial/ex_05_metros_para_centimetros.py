@@ -18,3 +18,4 @@ def converter_metros_para_centimetros():
     """Escreva aqui em baixo a sua solução"""
 
     
+# 5 m para 500 cm  5 x 100 = 500cm
