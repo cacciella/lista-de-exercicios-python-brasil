@@ -17,5 +17,6 @@ Faça um Programa que converta metros para centímetros.
 def converter_metros_para_centimetros():
     """Escreva aqui em baixo a sua solução"""
 
-    
-# 5 m para 500 cm  5 x 100 = 500cm
+metros = float(input("Qual o valor para converter de metros para centimetros?:    "))
+valor = (metros * 100)
+print(f"Transformando para centímetros dá: {valor}cm ")
