@@ -18,3 +18,10 @@ Observação: Use o valor de 3.1415 para o valor da constante π
 
 def calcular_area_de_circulo():
     """Escreva aqui em baixo a sua solução"""
+
+pi = 3.1415
+
+raio = float(input('Qual é a medida do raio:  '))
+area = pi * (raio ** 2)
+# pd.set_option('display.float_format', lambda x: '%.3f' % x)  (tem instalar o Pandas)
+print(f'O calculo da area do circulo é: {area}')
