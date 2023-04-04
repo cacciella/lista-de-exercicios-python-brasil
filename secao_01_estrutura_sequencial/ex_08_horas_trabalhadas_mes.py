@@ -16,4 +16,4 @@ Mostrar salário com duas casas decimais
 ganha = float(input('quanto você ganha por hora:    '))
 horas_trab = float(input('qual o número de horas trabalhadas no mês:    '))
 salario = ganha * horas_trab
-print(f'Seu salário desse mês é: {salario:.2f}cm² ')
+print(f'Seu salário desse mês é: R$ {salario:.2f}')
